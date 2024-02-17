@@ -33,3 +33,5 @@ build.ninja
 .ninja_log
 .clwb
 .vscode
+pyvenv.cfg
+bin
